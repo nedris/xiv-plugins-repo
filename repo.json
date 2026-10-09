@@ -3,7 +3,7 @@
         "Author":  "Nedris",
         "Name":  "Waypoint",
         "InternalName":  "Waypoint",
-        "AssemblyVersion":  "0.2.0.0",
+        "AssemblyVersion":  "0.2.1.0",
         "Description":  "Replaces the vanilla teleport menu with a searchable window: English and French search, favorites with labels, recent destinations, housing shortcuts, custom aliases and /wp \u003cname\u003e to teleport from chat.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -16,16 +16,16 @@
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
+        "IconUrl":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/icon.png",
         "Punchline":  "A faster, searchable teleport menu.",
         "AcceptsFeedback":  true,
-        "IconUrl":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/icon.png",
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
         "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791555370"
+        "LastUpdate":  "1791563102"
     },
     {
         "Author":  "Nedris",
