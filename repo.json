@@ -1,9 +1,95 @@
 [
     {
+        "value":  [
+                      {
+                          "Author":  "Nedris",
+                          "Name":  "Waypoint",
+                          "InternalName":  "Waypoint",
+                          "AssemblyVersion":  "0.1.0.0",
+                          "Description":  "Replaces the vanilla teleport menu with a searchable window: English and French search, favorites with labels, recent destinations, housing shortcuts, custom aliases and /wp \u003cname\u003e to teleport from chat.",
+                          "ApplicableVersion":  "any",
+                          "Tags":  [
+                                       "teleport",
+                                       "aetheryte",
+                                       "utility"
+                                   ],
+                          "DalamudApiLevel":  15,
+                          "LoadRequiredState":  0,
+                          "LoadSync":  false,
+                          "CanUnloadAsync":  false,
+                          "LoadPriority":  0,
+                          "Punchline":  "A faster, searchable teleport menu.",
+                          "AcceptsFeedback":  true,
+                          "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
+                          "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
+                          "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
+                          "IsHide":  false,
+                          "IsTestingExclusive":  false,
+                          "DownloadCount":  0,
+                          "LastUpdate":  "1791554635"
+                      },
+                      {
+                          "Author":  "Nedris",
+                          "Name":  "Proximity",
+                          "InternalName":  "Proximity",
+                          "AssemblyVersion":  "1.1.0.0",
+                          "Description":  "Merges Nearby Players (Wholist) and Peeping Tom. Lists nearby players with their world and Free Company tag, colored by party, friend list and Player Sync / Lightless Sync status, and shows who is targeting you with the same click shortcuts as Peeping Tom.",
+                          "ApplicableVersion":  "any",
+                          "Tags":  [
+                                       "players",
+                                       "nearby",
+                                       "target",
+                                       "utility"
+                                   ],
+                          "DalamudApiLevel":  15,
+                          "LoadRequiredState":  0,
+                          "LoadSync":  false,
+                          "CanUnloadAsync":  false,
+                          "LoadPriority":  0,
+                          "Punchline":  "Nearby players and who is targeting you, in one window.",
+                          "AcceptsFeedback":  true,
+                          "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Proximity/latest.zip",
+                          "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Proximity/latest.zip",
+                          "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Proximity/latest.zip",
+                          "IsHide":  false,
+                          "IsTestingExclusive":  false,
+                          "DownloadCount":  0,
+                          "LastUpdate":  "1791554635"
+                      },
+                      {
+                          "Author":  "Nedris",
+                          "Name":  "Sync Priority",
+                          "InternalName":  "SyncPriority",
+                          "AssemblyVersion":  "0.1.0.0",
+                          "Description":  "Finds players handled by both Lightless Sync and Player Sync and keeps only Lightless active for them.",
+                          "ApplicableVersion":  "any",
+                          "Tags":  [
+                                       "sync",
+                                       "utility"
+                                   ],
+                          "DalamudApiLevel":  15,
+                          "LoadRequiredState":  0,
+                          "LoadSync":  false,
+                          "CanUnloadAsync":  false,
+                          "LoadPriority":  0,
+                          "Punchline":  "Avoid double-syncing players across Lightless Sync and Player Sync.",
+                          "AcceptsFeedback":  true,
+                          "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/SyncPriority/latest.zip",
+                          "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/SyncPriority/latest.zip",
+                          "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/SyncPriority/latest.zip",
+                          "IsHide":  false,
+                          "IsTestingExclusive":  false,
+                          "DownloadCount":  0,
+                          "LastUpdate":  "1791554635"
+                      }
+                  ],
+        "Count":  3
+    },
+    {
         "Author":  "Nedris",
         "Name":  "Waypoint",
         "InternalName":  "Waypoint",
-        "AssemblyVersion":  "0.1.0.0",
+        "AssemblyVersion":  "0.2.0.0",
         "Description":  "Replaces the vanilla teleport menu with a searchable window: English and French search, favorites with labels, recent destinations, housing shortcuts, custom aliases and /wp \u003cname\u003e to teleport from chat.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -18,66 +104,13 @@
         "LoadPriority":  0,
         "Punchline":  "A faster, searchable teleport menu.",
         "AcceptsFeedback":  true,
+        "IconUrl":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/icon.png",
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
         "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791554635"
-    },
-    {
-        "Author":  "Nedris",
-        "Name":  "Proximity",
-        "InternalName":  "Proximity",
-        "AssemblyVersion":  "1.1.0.0",
-        "Description":  "Merges Nearby Players (Wholist) and Peeping Tom. Lists nearby players with their world and Free Company tag, colored by party, friend list and Player Sync / Lightless Sync status, and shows who is targeting you with the same click shortcuts as Peeping Tom.",
-        "ApplicableVersion":  "any",
-        "Tags":  [
-                     "players",
-                     "nearby",
-                     "target",
-                     "utility"
-                 ],
-        "DalamudApiLevel":  15,
-        "LoadRequiredState":  0,
-        "LoadSync":  false,
-        "CanUnloadAsync":  false,
-        "LoadPriority":  0,
-        "Punchline":  "Nearby players and who is targeting you, in one window.",
-        "AcceptsFeedback":  true,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Proximity/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Proximity/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Proximity/latest.zip",
-        "IsHide":  false,
-        "IsTestingExclusive":  false,
-        "DownloadCount":  0,
-        "LastUpdate":  "1791554635"
-    },
-    {
-        "Author":  "Nedris",
-        "Name":  "Sync Priority",
-        "InternalName":  "SyncPriority",
-        "AssemblyVersion":  "0.1.0.0",
-        "Description":  "Finds players handled by both Lightless Sync and Player Sync and keeps only Lightless active for them.",
-        "ApplicableVersion":  "any",
-        "Tags":  [
-                     "sync",
-                     "utility"
-                 ],
-        "DalamudApiLevel":  15,
-        "LoadRequiredState":  0,
-        "LoadSync":  false,
-        "CanUnloadAsync":  false,
-        "LoadPriority":  0,
-        "Punchline":  "Avoid double-syncing players across Lightless Sync and Player Sync.",
-        "AcceptsFeedback":  true,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/SyncPriority/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/SyncPriority/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/SyncPriority/latest.zip",
-        "IsHide":  false,
-        "IsTestingExclusive":  false,
-        "DownloadCount":  0,
-        "LastUpdate":  "1791554635"
+        "LastUpdate":  "1791555319"
     }
 ]
