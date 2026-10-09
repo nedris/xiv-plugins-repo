@@ -59,7 +59,7 @@
         "Author":  "Nedris",
         "Name":  "Sync Priority",
         "InternalName":  "SyncPriority",
-        "AssemblyVersion":  "0.1.0.0",
+        "AssemblyVersion":  "0.1.1.0",
         "Description":  "Finds players handled by both Lightless Sync and Player Sync and keeps only Lightless active for them.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -79,7 +79,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791555370"
+        "LastUpdate":  "1791590281"
     },
     {
         "Author":  "Nedris",
