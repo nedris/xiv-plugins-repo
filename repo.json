@@ -85,7 +85,7 @@
         "Author":  "Nedris",
         "Name":  "Kinship",
         "InternalName":  "Kinship",
-        "AssemblyVersion":  "0.1.0.0",
+        "AssemblyVersion":  "0.1.1.0",
         "Description":  "Replaces the vanilla friend list. Online status is refreshed as soon as the window opens (no more sync button), with the game\u0027s status icons, location and job. Friend groups, how long you have been friends, when you last saw each friend online, personal notes, and one-click tell, party invite, adventurer plate and teleport to their estates.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -109,6 +109,6 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791565332"
+        "LastUpdate":  "1791589502"
     }
 ]
