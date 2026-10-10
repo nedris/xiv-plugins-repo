@@ -114,7 +114,7 @@
         "Author":  "Nedris",
         "Name":  "Parley",
         "InternalName":  "Parley",
-        "AssemblyVersion":  "0.1.6.0",
+        "AssemblyVersion":  "0.1.7.0",
         "Description":  "Replaces the game\u0027s chat window (optional). Public channels go in tabs you configure (General, Party, FC…); every private conversation gets its own sub-tab inside a Private tab, created as soon as a tell is sent or received, with unread counters, history kept on your PC and an optional sound. The input follows the tab: write in a conversation to send a tell, in Party to talk to your party.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -137,6 +137,6 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791641472"
+        "LastUpdate":  "1791647761"
     }
 ]
