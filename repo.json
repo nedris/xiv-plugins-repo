@@ -3,7 +3,7 @@
         "Author":  "Nedris",
         "Name":  "Waypoint",
         "InternalName":  "Waypoint",
-        "AssemblyVersion":  "0.2.1.0",
+        "AssemblyVersion":  "0.2.2.0",
         "Description":  "Replaces the vanilla teleport menu with a searchable window: English and French search, favorites with labels, recent destinations, housing shortcuts, custom aliases and /wp \u003cname\u003e to teleport from chat.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -16,16 +16,16 @@
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
-        "IconUrl":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/icon.png",
+        "IconUrl":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Waypoint/icon.png",
         "Punchline":  "A faster, searchable teleport menu.",
         "AcceptsFeedback":  true,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Waypoint/latest.zip",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Waypoint/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Waypoint/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Waypoint/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791563102"
+        "LastUpdate":  "1791641472"
     },
     {
         "Author":  "Nedris",
@@ -47,13 +47,13 @@
         "LoadPriority":  0,
         "Punchline":  "Nearby players and who is targeting you, in one window.",
         "AcceptsFeedback":  true,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Proximity/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Proximity/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Proximity/latest.zip",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Proximity/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Proximity/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Proximity/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791625451"
+        "LastUpdate":  "1791641472"
     },
     {
         "Author":  "Nedris",
@@ -73,13 +73,13 @@
         "LoadPriority":  0,
         "Punchline":  "Avoid double-syncing players across Lightless Sync and Player Sync.",
         "AcceptsFeedback":  true,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/SyncPriority/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/SyncPriority/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/SyncPriority/latest.zip",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/SyncPriority/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/SyncPriority/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/SyncPriority/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791590743"
+        "LastUpdate":  "1791641472"
     },
     {
         "Author":  "Nedris",
@@ -102,13 +102,13 @@
         "LoadPriority":  0,
         "Punchline":  "A modern friend list with live online status.",
         "AcceptsFeedback":  true,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Kinship/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Kinship/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Kinship/latest.zip",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Kinship/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Kinship/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Kinship/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791592544"
+        "LastUpdate":  "1791641472"
     },
     {
         "Author":  "Nedris",
@@ -131,12 +131,12 @@
         "LoadPriority":  0,
         "Punchline":  "One chat window, with a tab for each private conversation.",
         "AcceptsFeedback":  true,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Parley/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Parley/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Parley/latest.zip",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Parley/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Parley/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Parley/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791640273"
+        "LastUpdate":  "1791641472"
     }
 ]
