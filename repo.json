@@ -85,8 +85,8 @@
         "Author":  "Nedris",
         "Name":  "Kinship",
         "InternalName":  "Kinship",
-        "AssemblyVersion":  "0.1.1.0",
-        "Description":  "Replaces the vanilla friend list. Online status is refreshed as soon as the window opens (no more sync button), with the game\u0027s status icons, location and job. Friend groups, how long you have been friends, when you last saw each friend online, personal notes, and one-click tell, party invite, adventurer plate and teleport to their estates.",
+        "AssemblyVersion":  "0.1.2.0",
+        "Description":  "Replaces the vanilla friend list (your Friend List keybind opens it). When it opens, Kinship presses the game\u0027s per-player status sync for you, friends on screen first, so you no longer click the sync icon friend by friend; statuses use the game\u0027s icons, with location and job. Friend groups, how long you have been friends, when you last saw each friend online, personal notes, and one-click tell, party invite, adventurer plate and teleport to their estates.",
         "ApplicableVersion":  "any",
         "Tags":  [
                      "friends",
@@ -100,7 +100,6 @@
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
-        "IconUrl":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Kinship/icon.png",
         "Punchline":  "A modern friend list with live online status.",
         "AcceptsFeedback":  true,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Kinship/latest.zip",
@@ -109,6 +108,6 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791589502"
+        "LastUpdate":  "1791592544"
     }
 ]
