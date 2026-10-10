@@ -31,7 +31,7 @@
         "Author":  "Nedris",
         "Name":  "Proximity",
         "InternalName":  "Proximity",
-        "AssemblyVersion":  "1.1.0.0",
+        "AssemblyVersion":  "1.1.1.0",
         "Description":  "Merges Nearby Players (Wholist) and Peeping Tom. Lists nearby players with their world and Free Company tag, colored by party, friend list and Player Sync / Lightless Sync status, and shows who is targeting you with the same click shortcuts as Peeping Tom.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -53,7 +53,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791555370"
+        "LastUpdate":  "1791623929"
     },
     {
         "Author":  "Nedris",
