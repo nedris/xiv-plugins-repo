@@ -3,7 +3,7 @@
         "Author":  "Nedris",
         "Name":  "Waypoint",
         "InternalName":  "Waypoint",
-        "AssemblyVersion":  "0.2.3.0",
+        "AssemblyVersion":  "0.2.4.0",
         "Description":  "Replaces the vanilla teleport menu with a searchable window: English and French search, favorites with labels, recent destinations, housing shortcuts, custom aliases and /wp \u003cname\u003e to teleport from chat.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -25,7 +25,7 @@
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
-        "LastUpdate":  "1791654405"
+        "LastUpdate":  "1791660679"
     },
     {
         "Author":  "Nedris",
