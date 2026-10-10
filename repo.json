@@ -109,5 +109,34 @@
         "IsTestingExclusive":  false,
         "DownloadCount":  0,
         "LastUpdate":  "1791592544"
+    },
+    {
+        "Author":  "Nedris",
+        "Name":  "Parley",
+        "InternalName":  "Parley",
+        "AssemblyVersion":  "0.1.0.0",
+        "Description":  "Replaces the game\u0027s chat window (optional). Public channels go in tabs you configure (General, Party, FC…); every private conversation gets its own sub-tab inside a Private tab, created as soon as a tell is sent or received, with unread counters, history kept on your PC and an optional sound. The input follows the tab: write in a conversation to send a tell, in Party to talk to your party.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "chat",
+                     "tell",
+                     "messenger",
+                     "social",
+                     "utility"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "One chat window, with a tab for each private conversation.",
+        "AcceptsFeedback":  true,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Parley/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Parley/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/nedris/xiv-plugins-repo/main/plugins/Parley/latest.zip",
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadCount":  0,
+        "LastUpdate":  "1791630269"
     }
 ]
